@@ -2,14 +2,14 @@
 
 My name is Bart and I'm a full stack developer based in The Netherlands.
 
-Programming languages:
+#### Programming languages:
 - Java,
 - JavaScript,
 - Python,
 - MySql/ MongoDB
 - HTML/CSS
 
-Frameworks/libraries:
+#### Frameworks/libraries:
 - React/ React Native,
 - Vue JS,
 - Node JS,
