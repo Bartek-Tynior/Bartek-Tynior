@@ -11,6 +11,7 @@ My name is Bart and I'm a full stack developer based in The Netherlands.
 
 #### Frameworks/libraries:
 - React/ React Native,
+- Spring
 - Vue JS,
 - Node JS,
 - Express,
